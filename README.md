@@ -1,4 +1,4 @@
-# Dictionary API Query Terminal App
+# Dictionary API Terminal App
 
 ## Allow a user to query a dictionary API using Rust, Serde and Reqwests
 
